@@ -1,0 +1,3 @@
+//StatSystem
+ExileServer_system_network_event_onPlayerConnected = "\StatSystem_Server\override\ExileServer_system_network_event_onPlayerConnected.sqf";
+ExileServer_object_player_network_loadPlayerRequest = "\StatSystem_Server\override\ExileServer_object_player_network_loadPlayerRequest.sqf";
